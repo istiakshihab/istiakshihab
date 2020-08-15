@@ -3,4 +3,4 @@
 
 私はLinuxを微調整したり探索したりするのが好きで、可能であれば私のキャリアにしたいと思っています。私は今のところ![alt text][archlinux]を好みます
 
-[archlinux]: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png "Arch Linux"
+[archlinux]: https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png "Arch Linux" width="64" height="64"
