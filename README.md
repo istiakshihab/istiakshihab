@@ -1,6 +1,3 @@
-##### If you are my friend academically, Do not mention what I am doing in GitHub. I don't like any sort of feedbacks about it. And I get very annoyed at your passive-aggressive snarky remarks.
-
-
 私はLinuxを微調整したり探索したりするのが好きで、可能であれば私のキャリアにしたいと思っています。私は今のところ<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png" alt="Arch Linux" width="32"/>を好みます
 
 ソフトウェアスタックには好みがなく、コードを記述する新しい方法を模索したいと考えています。私は現在、バイオインフォマティクスと協力して、基本的な機械学習を学んでいます。音楽が好きです。 シド・バレットのファンボーイ。 音楽、政治、歴史について話したいです。
