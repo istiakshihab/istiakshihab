@@ -13,17 +13,4 @@ flamingo, oh oh oh<br>
 You're pretty either way.
 </p>
 
-ジョジョの奇妙な冒険が好き
-![alt text][Jojo]
-
-私は経験があります:<br>
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)<br>
-![badge-python](https://img.shields.io/badge/language-python-yellow?style=for-the-badge&logo=python)<br>
-![badge-java](https://img.shields.io/badge/language-java-lightgrey?style=for-the-badge&logo=java) <br>
-![badge-android](https://img.shields.io/badge/framework-android-brightgreen?style=for-the-badge&logo=android)<br>
-![badge-git](https://img.shields.io/badge/framework-git-orange?style=for-the-badge&logo=git)<br>
-![badge-django](https://img.shields.io/badge/framework-django-green?style=for-the-badge&logo=django)<br>
-![badge-mysql](https://img.shields.io/badge/database-mysql-yellowgreen?style=for-the-badge&logo=mysql)<br>
-![badge-firebase](https://img.shields.io/badge/database-firebase-yellow?style=for-the-badge&logo=firebase)
-
-[Jojo]: https://i.ytimg.com/vi/XUhVCoTsBaM/maxresdefault.jpg "Jojo Poster"
+I like OS.
