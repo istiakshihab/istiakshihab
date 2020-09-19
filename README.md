@@ -3,14 +3,12 @@
 ソフトウェアスタックには好みがなく、コードを記述する新しい方法を模索したいと考えています。私は現在、バイオインフォマティクスと協力して、基本的な機械学習を学んでいます。音楽が好きです。 シド・バレットのファンボーイ。 音楽、政治、歴史について話したいです。
 
 <p align="center">
-  Black, white, green or blue <br>
-show off your natural hue<br>
-flamingo, oh oh owoah<br>
-if your multicouloured thats cool too<br>
-You, dont, need to change<br>
-its boring being the same<br>
-flamingo, oh oh oh<br>
-You're pretty either way.
+残酷な天使のテーゼ
+悲しみがそしてはじまる
+抱きしめた命のかたち
+その夢に目覚めたとき
+誰よりも光を放つ
+少年よ 神話になれ
 </p>
 
 I like OS.
