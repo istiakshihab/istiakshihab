@@ -13,5 +13,9 @@
 
 I like OS.
 
-<!-- [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr) -->
+Now Listening To:
+<p align="center">
+
 [<img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii)
+
+</p>
