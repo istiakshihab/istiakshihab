@@ -12,6 +12,13 @@ I am a 22 yo CS Undergrad student. I like to fool around my tech stuff which is 
 少年よ 神話になれ <br>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
+<p align="center">
+<a href="https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii"><img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
+</p>
+</p>
+
 ## Stuff I have tried so far
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=Powershell&logoColor=5391FE"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00979D"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
@@ -26,10 +33,3 @@ I am a 22 yo CS Undergrad student. I like to fool around my tech stuff which is 
 
 ## Other Website Handles
 [<img src="https://img.shields.io/badge/ihshihab-000?style=for-the-badge&logo=Reddit&logoColor=FF4500">](https://www.reddit.com/user/ihshihab)[<img src="https://img.shields.io/badge/istiakshihab-000?style=for-the-badge&logo=gitlab">](https://gitlab.com/istiakshihab)[<img src="https://img.shields.io/badge/istiakshihab-000?style=for-the-badge&logo=LINKEDIN&logoColor=0077B5">](https://www.linkedin.com/in/istiakshihab/)
-
-<p align="center">
-<img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
-<p align="center">
-<a href="https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii"><img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
-</p>
-</p>
