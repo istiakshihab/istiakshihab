@@ -19,8 +19,9 @@
 ## My Workplace
 
 <img src="https://img.shields.io/badge/Environment-424242?style=for-the-badge&logo=openlayers&logoColor=FFFFFF"><img src="https://img.shields.io/badge/VS Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"><img src="https://img.shields.io/badge/XFCE-000000?style=for-the-badge&logo=xfce&logoColor=2284F2"><img src="https://img.shields.io/badge/Manjaro-000000?style=for-the-badge&logo=manjaro&logoColor=35BF5C"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
-
+<p align="center">
 <img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
-
-[<img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii)
-
+<p align="center">
+<a href="https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii"><img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
+</p>
+</p>
