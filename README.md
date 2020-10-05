@@ -11,16 +11,14 @@
 少年よ 神話になれ <br>
 </p>
 
-# Cool stuff I I did
+# Cool stuff I've worked on
 
 <a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=000&title_color=FFFFFF&text_color=E6E6E6&icon_color=424242" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=appledora&repo=
 P2P-chat-socket-implementation-on-android&bg_color=000&title_color=FFFFFF&text_color=E6E6E6&icon_color=424242" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=istiakshihab&repo=DBMS_Project_SUST_Course&bg_color=000&title_color=FFFFFF&text_color=E6E6E6&icon_color=424242" />
 </a>  
 
-# Tried so far
+# Stuff I have tried so far
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=Powershell&logoColor=5391FE"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00979D"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 
