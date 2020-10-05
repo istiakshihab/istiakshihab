@@ -1,4 +1,8 @@
 <p align="center"><img src="https://i.ibb.co/Jq5YZB0/forgit.png"></p><br/>
+
+### Hi Everyone,
+You already know who I am. I like to fool around my tech stuff which is why I love all the nitty gritty things I can explore. If you have any fun projects to work on,hmu. Besides that, I love playing video games. 
+
 <p align="center">
 残酷な天使のテーゼ <br>
 悲しみがそしてはじまる <br>
@@ -8,7 +12,7 @@
 少年よ 神話になれ <br>
 </p>
 
-# Stuff I have tried so far
+## Stuff I have tried so far
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=Powershell&logoColor=5391FE"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00979D"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 
