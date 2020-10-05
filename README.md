@@ -14,10 +14,10 @@
 # Cool stuff I've worked on
 
 <a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=000&title_color=FFFFFF&text_color=E6E6E6&icon_color=424242" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=424242&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF" />
 </a>
 <a align="center" href="https://github.com/appledora/P2P-chat-socket-implementation-on-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=appledora&repo=P2P-chat-socket-implementation-on-android&bg_color=000&title_color=FFFFFF&text_color=E6E6E6&icon_color=424242" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=appledora&repo=P2P-chat-socket-implementation-on-android&bg_color=424242&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF" />
 </a>  
 
 # Stuff I have tried so far
