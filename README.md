@@ -17,6 +17,8 @@ I like OS.
 
 <img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Anrdoid_Studio-000000?style=for-the-badge&logo=Android-Studio&logoColor=3DDC84"><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=092E20"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"><img src="https://img.shields.io/badge/Jquery-000000?style=for-the-badge&logo=Jquery&logoColor=0769AD">
 
+<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&logo=Redis&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28"><img src="https://img.shields.io/badge/Apache Solr-000000?style=for-the-badge&logo=Apache-Solr&logoColor=D9411E">
+
 Now Listening To:
 
 [<img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii)
