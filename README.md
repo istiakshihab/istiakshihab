@@ -13,8 +13,9 @@
 
 I like OS.
 
-<img src="https://img.shields.io/badge/Languages-EEECE0?style=for-the-badge&logo=plex&logoColor=000000"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Languages-EEECE0?style=for-the-badge&logo=plex&logoColor=000000"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=Powershell&logoColor=5391FE"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00979D"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 
+<img src="https://img.shields.io/badge/Frameworks-000000?style=for-the-badge&logo=IPFS&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Anrdoid Studio-EEECE0?style=for-the-badge&logo=Android Studio&logoColor=007396"><img src="https://img.shields.io/badge/Java-EEECE0?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/Java-EEECE0?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/Java-EEECE0?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/Java-EEECE0?style=for-the-badge&logo=Java&logoColor=007396">
 
 Now Listening To:
 
