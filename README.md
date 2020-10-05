@@ -19,6 +19,8 @@ I like OS.
 
 <img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&logo=Redis&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28"><img src="https://img.shields.io/badge/Apache Solr-000000?style=for-the-badge&logo=Apache-Solr&logoColor=D9411E">
 
+<img src="https://img.shields.io/badge/Environment-424242?style=for-the-badge&logo=openlayers&logoColor=FFFFFF"><img src="https://img.shields.io/badge/VS Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"><img src="https://img.shields.io/badge/XFCE-000000?style=for-the-badge&logo=xfce&logoColor=2284F2"><img src="https://img.shields.io/badge/Manjaro-000000?style=for-the-badge&logo=manjaro&logoColor=35BF5C"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
+
 Now Listening To:
 
 [<img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii)
