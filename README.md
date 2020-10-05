@@ -23,6 +23,10 @@ I am a 22 yo CS Undergrad student. I like to fool around my tech stuff which is 
 ## My Workplace
 
 <img src="https://img.shields.io/badge/Environment-424242?style=for-the-badge&logo=openlayers&logoColor=FFFFFF"><img src="https://img.shields.io/badge/VS Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"><img src="https://img.shields.io/badge/XFCE-000000?style=for-the-badge&logo=xfce&logoColor=2284F2"><img src="https://img.shields.io/badge/Manjaro-000000?style=for-the-badge&logo=manjaro&logoColor=35BF5C"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
+
+## Other Website Handles
+[<img src="https://img.shields.io/badge/ihshihab-000?style=for-the-badge&logo=Reddit&logoColor=FF4500">](https://www.reddit.com/user/ihshihab)[<img src="https://img.shields.io/badge/istiakshihab-000?style=for-the-badge&logo=gitlab">](https://gitlab.com/istiakshihab)[<img src="https://img.shields.io/badge/istiakshihab-000?style=for-the-badge&logo=LINKEDIN&logoColor=0077B5">](https://www.linkedin.com/in/istiakshihab/)
+
 <p align="center">
 <img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
 <p align="center">
