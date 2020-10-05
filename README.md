@@ -13,11 +13,7 @@
 
 I like OS.
 
-<img src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&logo=plex&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=007396">
-<img src="https://img.shields.io/badge/Javascript-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&logo=plex&logoColor=FFFFFF"><img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"><img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"><img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=007396"><img src="https://img.shields.io/badge/Javascript-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 
 
 Now Listening To:
