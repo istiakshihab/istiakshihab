@@ -12,6 +12,7 @@ I am a 22 yo CS Undergrad student. I like to fool around my tech stuff which is 
 少年よ 神話になれ <br>
 </p>
 
+
 <p align="center">
 <img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
 <p align="center">
