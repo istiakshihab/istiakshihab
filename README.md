@@ -1,6 +1,10 @@
-![og-aaronswartz-credit](https://user-images.githubusercontent.com/36191408/148446105-74db052f-67f9-4307-8f6b-c8672f0255a5.jpg)
-Remembering Aaron Swartz.
-If you love open source, and you want the clarity of information please read about [this guy](https://en.wikipedia.org/wiki/Aaron_Swartz).
+<p align="center">
+<img src="https://user-images.githubusercontent.com/36191408/148446105-74db052f-67f9-4307-8f6b-c8672f0255a5.jpg" width="400">
+</p>
+
+<h3 align="center">
+  Remembering <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>.
+</h3>
 
 #### Hi Everyone,
 
