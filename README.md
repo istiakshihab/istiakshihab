@@ -1,4 +1,6 @@
-<p align="center"><img src="https://i.ibb.co/Jq5YZB0/forgit.png"></p><br/>
+![og-aaronswartz-credit](https://user-images.githubusercontent.com/36191408/148446105-74db052f-67f9-4307-8f6b-c8672f0255a5.jpg)
+Remembering Aaron Swartz.
+If you love open source, and you want the clarity of information please read about [this guy](https://en.wikipedia.org/wiki/Aaron_Swartz).
 
 #### Hi Everyone,
 
@@ -14,6 +16,8 @@ I can explore. If you have any fun projects to work on,hmu. Besides that, I love
 誰よりも光を放つ <br>
 少年よ 神話になれ <br>
 </p>
+
+<p align="center"><img src="https://i.ibb.co/Jq5YZB0/forgit.png"></p><br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
