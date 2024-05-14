@@ -46,5 +46,5 @@ I am a 26 yo CS Undergrad student. I like to fool around my tech stuff and I lov
 [<img src="https://img.shields.io/badge/ihshihab-000?style=for-the-badge&logo=Reddit&logoColor=FF4500">](https://www.reddit.com/user/ihshihab)[<img src="https://img.shields.io/badge/istiakshihab-000?style=for-the-badge&logo=gitlab">](https://gitlab.com/istiakshihab)[<img src="https://img.shields.io/badge/istiakshihab-000?style=for-the-badge&logo=LINKEDIN&logoColor=0077B5">](https://www.linkedin.com/in/istiakshihab/)
 
 <p align="center">
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22790%26project%3D%26in=0)](https://codetime.dev)
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22790%26project%3D%26in=0">
 </p>
