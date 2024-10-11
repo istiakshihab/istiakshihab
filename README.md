@@ -8,7 +8,7 @@
 
 #### Hi Everyone,
 
-I am a 26 yo CS Undergrad student. I like to fool around my tech stuff and I love all the nitty gritty things I can explore. If you have any fun projects to work on,hmu. Besides that, I love playing video games (specifically dota). 
+I am a 27 yo CS Undergrad student. I like to fool around my tech stuff and I love all the nitty gritty things I can explore. If you have any fun projects to work on,hmu. Besides that, I love playing video games (specifically dota). 
 
 
 <p align="center">
