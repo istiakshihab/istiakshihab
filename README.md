@@ -23,7 +23,7 @@ I am a 27 yo CS Undergrad student. I like to fool around my tech stuff and I lov
 <p align="center"><img src="https://i.ibb.co/Jq5YZB0/forgit.png"></p><br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
+<img src="https://img.shields.io/badge/Probably listening right now on Spotify-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1ED760">
 <p align="center">
 <a href="https://open.spotify.com/user/22wgm4ojh5g56swvienpj6rii"><img src="https://istiakshihab-jv8ffvvjk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></a>
 </p>
